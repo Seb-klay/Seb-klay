@@ -13,19 +13,19 @@ N.B. Please don't mind the projects about astronomy. I'm just a huge lover 🪐
 ![](https://img.shields.io/static/v1?label=CODE&message=JAVASCRIPT&color=blue)
 ![](https://img.shields.io/static/v1?label=CODE&message=VUE&color=blue)
 ![](https://img.shields.io/static/v1?label=CODE&message=SQL&color=blue)
-During my studies for my Bachelor's Degree, I had a focus on Programming. This involves Java for software engineering, python for Machine Learning projects, SQL for databases and VueJS for web interfaces (supported by Figma for client's design).
+
+During my Bachelor’s studies, I focused on programming — including Java for software engineering, Python for machine learning projects, SQL for databases, and Vue.js for web interfaces, supported by Figma for client-oriented design work.
 
 ### Interviews
 ![](https://img.shields.io/static/v1?label=PRODUCTION&message=EDITING&color=red)
 ![](https://img.shields.io/static/v1?label=PRODUCTION&message=FilmMAKING&color=red)
 ![](https://img.shields.io/static/v1?label=PRODUCTION&message=INTERVIEWS&color=red)
-During my projects and works, i had the opportunity to interview many people about their skills. With my personal projects with my first Youtube channel or with my work as an HES ASSISTANT doing human-centered design. I conducted interviews in order to better understand people's work and skills to make videos or their processes in order to translate their needs into meaningful app features.
+
+Throughout my projects and work, I’ve had the opportunity to interview professionals about their skills and workflows. From my first YouTube channel to my role as an HES assistant in human-centered design, I conducted interviews to better understand people’s work and processes — whether to create videos or to translate their needs into meaningful app features.
 
 ## How I Work
 I must be in a creative environment. From where I work to the people I am working with. 
-
 I am a person who LOVES learning. I as ask a lot of questions.
-
 I also need enough freedom in my projects in order to 
 
 ## Get in touch with me
