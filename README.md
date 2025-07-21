@@ -25,8 +25,8 @@ Throughout my projects and work, I’ve had the opportunity to interview profess
 
 ## How I Work
 I must be in a creative environment. From where I work to the people I am working with. 
-I am a person who LOVES learning. I as ask a lot of questions.
-I also need enough freedom in my projects in order to 
+I am a person who LOVES learning. I ask a lot of questions.
+I also need enough freedom in my projects in order to work efficiently and bring value to the team.
 
 ## Get in touch with me
 [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/sebastien-kläy-b18205176/))
